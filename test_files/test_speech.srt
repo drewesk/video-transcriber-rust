@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:04,500
+Hello everyone, this is a test of the Wayne Dyer video transcription tool.
+
+2
+00:00:04,500 --> 00:00:08,800
+Today we will explore the power of intention and how our thoughts create our reality.
+
+3
+00:00:08,800 --> 00:00:13,127
+Remember, when you change the way you look at things, the things you look at change.
+
